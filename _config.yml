@@ -1,9 +1,6 @@
 name: lett
 layout_spectrum: 0.9086724841461867
 typography_spectrum: 0.5148744748388089
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#85DB18'
@@ -15,10 +12,3 @@ color:
   lightness: 0.38008200395708946
   saturation: 0.1641390092816345
   rhythmicContrast: 0.27691552238430006
-title: love where you live
-author:
-  name: Ryan Thorburn
-  url: lett.io
-  email: ryan.thorburn@lett.io
-content_rating:
-  adult: false
